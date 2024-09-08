@@ -7,6 +7,7 @@ Description
 A simple Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. The player can choose rock, paper, or scissors to play against the computer. 
 The game will randomly select the computer's choice, compare the player's choice to the computer's, and declare a winner.
 
+
 Features
 
 
